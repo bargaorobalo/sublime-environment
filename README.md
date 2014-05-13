@@ -5,7 +5,7 @@ List of sublime's plugins to add in every new machine I suppose to use
 
 ### Environment Abril/Iba Revistas
 * [Package Control](https://sublime.wbond.net/installation)
-* [Emmet](https://sublime.wbond.net/browse/popular)
+* [Emmet](https://sublime.wbond.net/packages/Emmet)
 * [Sass](https://sublime.wbond.net/packages/Sass)
 * [AngularJS](https://sublime.wbond.net/packages/AngularJS)
 * [CoffeeScript](https://sublime.wbond.net/packages/CoffeeScript)
