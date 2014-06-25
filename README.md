@@ -13,7 +13,7 @@ List of sublime's plugins to add in every new machine I suppose to use
 
 
 ### Environment UNISUAM
-* 
+* [SublimeREPL](https://github.com/wuub/SublimeREPL/) _Run some terminals commands right from sublime console_
 
 
 ### Environment Abril/Iba Revistas
