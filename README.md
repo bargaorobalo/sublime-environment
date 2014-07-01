@@ -14,6 +14,7 @@ List of sublime's plugins to add in every new machine I suppose to use
 
 ### Environment UNISUAM
 * [SublimeREPL](https://github.com/wuub/SublimeREPL/) _Run some terminals commands right from sublime console_
+* [Git Conflict Resolver](https://github.com/Zeeker/sublime-GitConflictResolver)
 
 
 ### Environment Abril/Iba Revistas
